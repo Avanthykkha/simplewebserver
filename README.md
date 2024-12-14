@@ -21,6 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
+```
 <html>
     <body>
     <title>LENOVO THINKPAD </title>
@@ -63,6 +64,7 @@ Testing the webserver.
      </table>
     </body>
 </html>
+```
 
 
 ## OUTPUT:
